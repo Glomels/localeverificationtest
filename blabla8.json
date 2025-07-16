@@ -1,0 +1,117 @@
+{
+  "Header": {
+    "test": "",
+    "API": "",
+    "About": "",
+    "Reports": "",
+    "Resources": ""
+  },
+  "Landing Page - Dashboard": {
+    "Country": "",
+    "Region": "",
+    "Networks": "",
+    "Select a Time Range": "",
+    "Country View": "",
+    "Region View": "",
+    "ASN/ISP View": ""
+  },
+  "Landing Page Dashboard Dropdown": {
+    "All Countries": "",
+    "All Regions": "",
+    "All Networks": ""
+  },
+  "Country Outage Page": {
+    "Country Outages": ""
+  },
+  "Regional Outage Page": {
+    "Regional Outages": ""
+  },
+  "ASN/ISP Outage Page": {
+    "ASN/ISP Outages": "",
+    "IP Count": ""
+  },
+  "Country and Regional Outage Page": {
+    "Chart View": ""
+  },
+  "All Outage Pages": {
+    "Outage Severity Score": "",
+    "Showing n of n entries": "",
+    "Name ": "",
+    "Score": "",
+    "Active Probing": "",
+    "BGP ": "",
+    "Telescope": ""
+  },
+  "Entity Page - Country/Region/ASN": {
+    "Internet Connectivity for": "",
+    "Selected Signal": "",
+    "Alert": "",
+    "Event": "",
+    "Regional Raw Signals": "",
+    "ASN/ISP Raw Signals": ""
+  },
+  "Entity Page - Country/Region": {
+    "Other Regions Affected in [entity]": "",
+    "Outages of ASNs/ISPs related to [entity]": ""
+  },
+  "Entity Page - Country/Region/ASN map legend": {
+    "Outage Severity Score": ""
+  },
+  "Entity Page - ASN": {
+    "Regions where [entity] operates that experienced outages": "",
+    "Countries where [entity] operates that experienced outages\n": ""
+  },
+  "Entity Page - Alert Table": {
+    "Time (UTC)": "",
+    "Type": "",
+    "Actual Value": "",
+    "Baseline Value": ""
+  },
+  "Entity Page - Event Table": {
+    "From": "",
+    "Until": "",
+    "Duration": "",
+    "Score": ""
+  },
+  "Regional Raw Signals Panel": {
+    "Regional Raw Signals related to [entity]\n": "",
+    "Displaying [n] Regions in the Horizon Time Series - Use checkboxes on the Region Raw Signals table to change the selection.\n\n": "",
+    "Regional Raw Signals": "",
+    "Check Max (n)": "",
+    "Uncheck All": "",
+    "Region": "",
+    "Outage Score": "",
+    "Active Probing": "",
+    "BGP ": "",
+    "Network Telescope": "",
+    "Map of Regional Outages": "",
+    "Showing n of n entries": ""
+  },
+  "ASN/ISP Raw Signals Panel": {
+    "Displaying 100 ASNs/ISPs in the Horizon Time Series - Use checkboxes on the ASN/ISP Raw Signals table to change the selection.\n\n": "",
+    "ASN/ISP Raw Signals": "",
+    "Number of ASNs/ISPs initially capped at 300 ( Load All - May take a while)": "",
+    "Check Max (n)": "",
+    "Uncheck All": "",
+    "ASN/ISP": "",
+    "IP Count": "",
+    "Outage Score": "",
+    "Showing n of n entries": "",
+    "Retrieving Data": ""
+  },
+  "Footer": {
+    "Support": "",
+    "Resources": "",
+    "About": "",
+    "Email Us": "",
+    "Researchers": "",
+    "Research": "",
+    "Reports": "",
+    "Data Sources": "",
+    "Developers": "",
+    "API": "",
+    "Connect ": "",
+    "Bluesky": "",
+    "Mastodon": ""
+  }
+}
